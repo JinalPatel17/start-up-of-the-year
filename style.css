@@ -45,3 +45,13 @@ hr {
 .btn-xl {
   padding: 1rem 2rem;
 }
+
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  flex: 1 100%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #FFFBAA;
+  font-size: 20px;
+}
